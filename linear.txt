@@ -1,0 +1,14 @@
+algorithme linear
+var
+i,j,sum: integer;
+a,b,c: array;
+BEGIN
+c:=a.concat(b);
+for i from 1 to lenght(c) do
+for (j-1) from length(c) to 1 do
+if c[i]<>c[j];
+sum:=sum+c[i];
+end if
+end for
+end for
+END
